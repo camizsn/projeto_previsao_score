@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto utiliza a ciência de dados e IA para prever o score de clientes de um banco com base em suas informações financeiras. O modelo preditivo criado pode ser aplicado no auxílio de tomada de decisões estratégicas em diferentes contextos de uma empresa.
+Este projeto utiliza a ciência de dados e IA para prever o score de clientes de um banco com base em suas informações financeiras. O modelo preditivo criado com 83% de precisão pode ser aplicado no auxílio de tomada de decisões estratégicas em diferentes contextos de uma empresa.
 
 ## Funcionalidades
 
